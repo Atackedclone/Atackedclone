@@ -18,4 +18,4 @@
 -⚡ Fun fact: I'm learning Rust on my phone 🤣! That is all thank you.
 
 ## GitHub Stats
-    ![Stats](https://github-readme-stats.vercel.app/api?username=Atackedclone&show_icons=true&theme=radical)!
+![Stats](https://github-readme-stats.vercel.app/api?username=Atackedclone&show_icons=true&theme=radical)!
