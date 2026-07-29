@@ -9,10 +9,13 @@
 [Rust](https://img.shields.io/badge/Rust-Learning-000?style=for-the-badge&logo=rust&logoColor=white)
 
 ###About Me
--🔭 Building Mobile apps and Security tools with termux 
+-🔭 Building Mobile apps and Security tools with termux
+
 -🌱 Learning Rust and C++ deeply. I'm learning English and Deutsch.
+
 -🇦🇴🇨🇩 My countries!
--⚡ Fun fact: I'm learning Rust on my phone 🤣! That is all thankful.
+
+-⚡ Fun fact: I'm learning Rust on my phone 🤣! That is all thank you.
 
 ###GitHub Stats
 [Stats](https://github-readme-stats.vercel.app/api?username=Atackedclone&show_icons=true&theme=radical)
