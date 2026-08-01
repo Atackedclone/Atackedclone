@@ -1,4 +1,4 @@
-## Hi! I'm Eduardo Nguele 👋🇦🇴
+## Hi! I'm Edward👋🇦🇴
 
 **Systems Programmer | Android Developer | funny White Hat**
 
@@ -12,7 +12,7 @@
 ## About Me
 -🔭 Building Mobile apps and Security tools with termux
 
--🌱 Learning Rust and C++ deeply. I'm learning English and Deutsch.
+-🌱 Learning Rust and C++ deeply. I'm learning English and Deutsch🇩🇪.
 
 -🇦🇴🇨🇩 My countries!
 
