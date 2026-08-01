@@ -1,6 +1,6 @@
 ## Hi! I'm Eduardo Nguele 👋🇦🇴
 
-**Systems Programmer | Android Developer | White Hat**
+**Systems Programmer | Android Developer | funny White Hat**
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
